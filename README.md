@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور الليل في عيوني
+> روحي تنادي في سكوني
+> تعالي نعيش في هذا الخيال
+> حبنا فوق كل احتمال
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
